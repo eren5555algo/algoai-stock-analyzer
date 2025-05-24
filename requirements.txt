@@ -3,3 +3,4 @@ yfinance
 pandas_ta
 matplotlib
 setuptools<70
+numpy
